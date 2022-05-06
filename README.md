@@ -1,6 +1,10 @@
 # Hey! 👋 I'm Eduard and I love learn and develop new things.
 
-_______________
+ ![WhatsApp Image 2021-10-10 at 09 16 29](https://user-images.githubusercontent.com/87845853/167119932-26de765c-e67f-426a-a7e0-f5ac4dc9b33b.png) 
+
+
+
+___________
 * I am a Full Stack Web Developer with a great passion for coding.
 * I love to learn new technologies and researching how things actually work.
 * I am a great problem solver ,team player who loves helping others to debug their app . 
