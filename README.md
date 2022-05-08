@@ -46,7 +46,7 @@ ______________________________
 
 ___________________________________
 ## Connect to me on: 
-* [LinkedIn](linkedin.com/in/eduard-loktev)![sociallinkedin_member_2751 (1)](https://user-images.githubusercontent.com/87845853/167114531-d72b10f1-25b6-4de4-b796-b47fe71d86ae.png)
+* [LinkedIn](https://linkedin.com/in/eduard-loktev)![sociallinkedin_member_2751 (1)](https://user-images.githubusercontent.com/87845853/167114531-d72b10f1-25b6-4de4-b796-b47fe71d86ae.png)
 
 ## Quotes
 * *"Never say never"* by **Charles Dickens**
