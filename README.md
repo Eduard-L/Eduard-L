@@ -25,11 +25,11 @@ ___________
 ![postman_alt_macos_bigsur_icon_189814](https://user-images.githubusercontent.com/87845853/167113134-d9bcf50a-2c13-4fc0-b968-f21aab2c534c.png)
 ![express_original_wordmark_logo_icon_146528](https://user-images.githubusercontent.com/87845853/167113018-c76f5b39-ae12-4925-b11c-ca56ffde65ee.png)
 ![git_original_wordmark_logo_icon_146510](https://user-images.githubusercontent.com/87845853/167113222-b70184c2-bda1-4e6a-b76a-8c9397a5335f.png)
-
+![redux_original_logo_icon_146365](https://user-images.githubusercontent.com/87845853/167113363-10a107e7-2d97-42fe-9eae-c126ca2e5d4a.png)
 ________________________________________
 ## I'm currently learning:
 
-![redux_original_logo_icon_146365](https://user-images.githubusercontent.com/87845853/167113363-10a107e7-2d97-42fe-9eae-c126ca2e5d4a.png)
+
 ![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/87845853/167113414-0e1560e6-30c2-4525-91f2-111d6533c44a.png)
 
 ______________________________
