@@ -1,6 +1,7 @@
 # Hey! 👋 I'm Eduard and I love learn and develop new things.
 
- ![WhatsApp Image 2021-10-10 at 09 16 29](https://user-images.githubusercontent.com/87845853/167119932-26de765c-e67f-426a-a7e0-f5ac4dc9b33b.png) 
+
+![WhatsApp Image 2022-05-20 at 11 58 05 (1) (1)](https://user-images.githubusercontent.com/87845853/187267810-dcb0a833-c7dc-49c3-ba28-dd4ad6bb1887.jpeg)
 
 
 
@@ -53,6 +54,7 @@ ___________________________________
 * *"Winners never quit and quitters never win"* by **Vince Lombardi**
 * *"Impossible is nothing"* by **Muhammad Ali**
 * *"Life begins at the end of your comfort zone"* by  **Neale Donald Walsch**
+* *"It's better to give than to receive"* by  **Apostle Paul**
 
 
 
