@@ -1,7 +1,8 @@
 # Hey! 👋 I'm Eduard and I love learn and develop new things.
 
 
-![WhatsApp Image 2022-05-20 at 11 58 05 (1) (1)](https://user-images.githubusercontent.com/87845853/187267810-dcb0a833-c7dc-49c3-ba28-dd4ad6bb1887.jpeg)
+
+![banner](https://user-images.githubusercontent.com/87845853/229977223-cea585b1-9924-43bb-8322-94f2b819cd6e.jpg)
 
 
 
