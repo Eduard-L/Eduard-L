@@ -8,11 +8,9 @@
 
 ___________
 * I am a Full Stack Web Developer with a great passion for coding.
-* I love to learn new technologies and researching how things actually work.
+* I am always learning new technologies and researching how things actually work.
 * I am a great problem solver ,team player who loves helping others to debug their app . 
 * I am very determined to succeed, try new challenges, and get out of my comfort zone.
-* In my free time you can find me at the gym or learning some new technology.
-
 
 ## Tools and technologies:
 
@@ -28,13 +26,12 @@ ___________
 ![express_original_wordmark_logo_icon_146528](https://user-images.githubusercontent.com/87845853/167113018-c76f5b39-ae12-4925-b11c-ca56ffde65ee.png)
 ![git_original_wordmark_logo_icon_146510](https://user-images.githubusercontent.com/87845853/167113222-b70184c2-bda1-4e6a-b76a-8c9397a5335f.png)
 ![redux_original_logo_icon_146365](https://user-images.githubusercontent.com/87845853/167113363-10a107e7-2d97-42fe-9eae-c126ca2e5d4a.png)
+![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/87845853/167113414-0e1560e6-30c2-4525-91f2-111d6533c44a.png)
 ________________________________________
 ## I'm currently learning:
 
 
-![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/87845853/167113414-0e1560e6-30c2-4525-91f2-111d6533c44a.png)
-
-______________________________
+__________________________
 ## Main Projects 
 * [News Explorer](https://github.com/Eduard-L/news-explorer-frontend)![News_icon-icons com_74697 (1)](https://user-images.githubusercontent.com/87845853/167114541-97bf5a6c-69b7-4a68-8f86-c7fab8c108b1.png)
 
