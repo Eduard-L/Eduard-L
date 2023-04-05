@@ -1,4 +1,4 @@
-# Hey! 👋 I'm Eduard and I love learn and develop new things.
+# Hey! 👋 I'm Eduard 
 
 
 
