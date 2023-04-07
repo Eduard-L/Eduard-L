@@ -41,6 +41,10 @@ __________________________
 
 * [Image Searcher](https://github.com/Eduard-L/react-image-searcher)![view_search_find_image_photo_6099 (1)](https://user-images.githubusercontent.com/87845853/167114552-ceca431a-004a-4c2f-a555-c75e3905cdea.png)
 
+* [Task Manager](https://github.com/Eduard-L/dnd-todo)![to-do-list](https://user-images.githubusercontent.com/87845853/230597105-f419e8c7-f6a6-4ada-87d4-3eecc91fb873.png)
+
+
+
 
 
 ___________________________________
