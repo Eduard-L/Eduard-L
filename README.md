@@ -19,6 +19,7 @@ ___________
 ![js](https://user-images.githubusercontent.com/87845853/167110942-4bc98daa-6d38-4c9c-9d91-1348490c4171.png)
 ![nodejs](https://user-images.githubusercontent.com/87845853/167111210-deee7d57-075f-4d9f-b1a8-f0fc9546c7e1.png)
 ![figma](https://user-images.githubusercontent.com/87845853/167111349-373c3747-98d4-4b51-bd42-cdcb5da9db82.png)
+![adobe-xd](https://user-images.githubusercontent.com/87845853/230602764-2b6c1a25-1246-4d7a-b152-b44cb515a75f.png)
 ![7423887_react_react native_icon](https://user-images.githubusercontent.com/87845853/167112302-71df704c-51e7-4778-be7f-79f1caa0139c.png)
 ![github](https://user-images.githubusercontent.com/87845853/167112317-188d30c5-aca8-44f8-a7b4-d7dd4577940a.png)
 ![mongodb_original_wordmark_logo_icon_146425](https://user-images.githubusercontent.com/87845853/167112694-ea5f3194-3cc6-4e60-a55b-6282356ef744.png)
@@ -27,7 +28,12 @@ ___________
 ![git_original_wordmark_logo_icon_146510](https://user-images.githubusercontent.com/87845853/167113222-b70184c2-bda1-4e6a-b76a-8c9397a5335f.png)
 ![redux_original_logo_icon_146365](https://user-images.githubusercontent.com/87845853/167113363-10a107e7-2d97-42fe-9eae-c126ca2e5d4a.png)
 ![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/87845853/167113414-0e1560e6-30c2-4525-91f2-111d6533c44a.png)
-________________________________________
+![google-cloud](https://user-images.githubusercontent.com/87845853/230602460-d1e9cc77-a756-458d-bae0-21741a516ebc.png)
+![ubuntu](https://user-images.githubusercontent.com/87845853/230603108-99b5d68e-8117-4059-9a6a-6a58f41afab3.png)
+![nginx](https://user-images.githubusercontent.com/87845853/230603117-5326e14c-bac3-4e96-bcd2-01e2b9a22173.png)
+
+
+______________________________
 ## I'm currently learning:
 
 
